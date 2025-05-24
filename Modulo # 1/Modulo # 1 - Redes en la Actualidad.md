@@ -396,7 +396,6 @@ En la figura, se muestran opciones de conexión comunes para los usuarios de ofi
 
 ![alt text](image-14.png)
 
----
 
 ---
 | Concepto     | Explicacion    |
