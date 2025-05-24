@@ -14,7 +14,7 @@ Como se mencionó anteriormente, los clientes son un tipo de host. Los clientes 
 
 ---
 
-![alt text](image.png)
+![alt text](Resources/image.png)
 
 ---
 
@@ -22,7 +22,7 @@ Como se mencionó anteriormente, los clientes son un tipo de host. Los clientes 
 
 ---
 
-![alt text](image-1.png)
+![alt text](Resources/image-1.png)
 
 ---
     
@@ -36,7 +36,7 @@ El software de cliente y servidor generalmente se ejecuta en computadoras separa
 
 ---
 
-![alt text](image-2.png)
+![alt text](Resources/image-2.png)
 
 ---
 
@@ -45,7 +45,7 @@ El software de cliente y servidor generalmente se ejecuta en computadoras separa
 
 ---
 
-![alt text](image-3.png)
+![alt text](Resources/image-3.png)
 
 ---
 
@@ -53,7 +53,7 @@ El software de cliente y servidor generalmente se ejecuta en computadoras separa
 
 ---
 
-![alt text](image-4.png)
+![alt text](Resources/image-4.png)
 
 ---
 
@@ -96,7 +96,7 @@ Los dispositivos intermedios usan la dirección del dispositivo final de destino
 
 ---
 
-![alt text](image-5.png)
+![alt text](Resources/image-5.png)
 
 ---
 
@@ -105,7 +105,7 @@ Los dispositivos intermedios usan la dirección del dispositivo final de destino
 ---
 
 
-![alt text](image-6.png)
+![alt text](Resources/image-6.png)
     
 ---
 
@@ -131,7 +131,7 @@ La comunicación se transmite a través de una red en los medios. El medio propo
 
 ---
 
-![alt text](image-7.png)
+![alt text](Resources/image-7.png)
 
 ---
           
@@ -156,7 +156,7 @@ Los arquitectos y administradores de redes deben poder mostrar el aspecto que te
 
 ---
 
-![alt text](image-8.png)
+![alt text](Resources/image-8.png)
 
 ---
 
@@ -233,7 +233,7 @@ Los diagramas de topología física ilustran la ubicación física de los dispos
 
 ---
 
-![alt text](image-9.png)
+![alt text](Resources/image-9.png)
 
 ---
 
@@ -246,7 +246,7 @@ Los diagramas de topología lógica ilustran los dispositivos, los puertos y el 
 
 ---
 
-![alt text](image-10.png)
+![alt text](Resources/image-10.png)
 
 ---
 
@@ -317,7 +317,7 @@ Los dos tipos más comunes de infraestructuras de red son las redes de área loc
 
 ---
 
-![alt text](image-11.png)
+![alt text](Resources/image-11.png)
 
 ---
 
@@ -341,7 +341,7 @@ Internet es una colección global de redes interconectadas (internetworks o inte
 
 ---
 
-![alt text](image-12.png)
+![alt text](Resources/image-12.png)
 
 ---
 
@@ -372,7 +372,7 @@ La figura ilustra los niveles de acceso que los diferentes grupos tienen a una i
 
 ---
 
-![alt text](image-13.png)
+![alt text](Resources/image-13.png)
 
 ---
 
@@ -394,7 +394,7 @@ En la figura, se muestran opciones de conexión comunes para los usuarios de ofi
 
 ---
 
-![alt text](image-14.png)
+![alt text](Resources/image-14.png)
 
 
 ---
@@ -421,7 +421,7 @@ La figura ilustra las opciones de conexión comunes para las empresas.
 
 ---
 
-![alt text](image-15.png)
+![alt text](Resources/image-15.png)
 
 ---
 | Concepto      | Explicacion    |
@@ -444,7 +444,7 @@ Piense en una escuela construida hace cuarenta años. En ese entonces, las aulas
 
 ---
 
-![alt text](image-16.png)
+![alt text](Resources/image-16.png)
 
 ---
 
@@ -454,7 +454,7 @@ Hoy, las redes separadas de datos, telefonía y vídeo están convergiendo. A di
 
 ---
 
-![alt text](image-17.png)
+![alt text](Resources/image-17.png)
 
 ---
 
@@ -486,7 +486,7 @@ La implementación de una red de packet-switched es una forma en que las redes c
 
 ---
 
-![alt text](image-18.png)
+![alt text](Resources/image-18.png)
 
 ---
 
@@ -498,7 +498,7 @@ Una red escalable se expande rápidamente para admitir nuevos usuarios y aplicac
 
 ---
 
-![alt text](image-19.png)
+![alt text](Resources/image-19.png)
 
 ---
 
@@ -514,7 +514,7 @@ Cuando el volumen de tráfico es mayor de lo que se puede transportar en la red,
 
 ---
 
-![alt text](image-20.png)
+![alt text](Resources/image-20.png)
 
 ---
 
@@ -529,7 +529,7 @@ Asegurar la infraestructura de red incluye asegurar físicamente los dispositivo
 
 ---
 
-![alt text](image-21.png)
+![alt text](Resources/image-21.png)
 
 ---
 
@@ -604,7 +604,7 @@ Por motivos de seguridad, fiabilidad y tolerancia a fallos, los proveedores de n
 
 ---
 
-![alt text](image-22.png)
+![alt text](Resources/image-22.png)
 
 ---
 
@@ -627,7 +627,7 @@ Las redes Powerline para redes domésticas utilizan el cableado eléctrico exist
 
 ---
 
-![alt text](image-23.png)
+![alt text](Resources/image-23.png)
 
 ---
 
