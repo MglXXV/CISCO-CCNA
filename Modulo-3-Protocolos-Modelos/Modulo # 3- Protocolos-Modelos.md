@@ -120,23 +120,23 @@ Los protocolos de red definen un formato y un conjunto de reglas comunes para in
 
 En la tabla se enumeran los distintos tipos de protocolos que se necesitan para habilitar las comunicaciones en una o más redes.
 
-![alt text]("resources/Imagen2.png")
+![alt text](resources/Imagen2.png)
 
 # [*] Tema 3.2.2 : Funciones de protocolo de Red.
 
 Los protocolos de comunicación de red son responsables de una variedad de funciones necesarias para las comunicaciones de red entre dispositivos finales. Por ejemplo, en la figura, ¿cómo envía el equipo un mensaje, a través de varios dispositivos de red, al servidor?
 
-![alt text]("resources/Imagen3.png")
+![alt text](resources/Imagen3.png)
 
 Los equipos y dispositivos de red utilizan protocolos acordados para comunicarse. La tabla enumera las funciones de estos protocolos.
 
-![alt text]("resources/Imagen4.png")
+![alt text](resources/Imagen4.png)
 
 # [*] Tema 3.2.3 : Interacción de Protocolos.
 
 Un mensaje enviado a través de una red informática normalmente requiere el uso de varios protocolos, cada uno con sus propias funciones y formato. La figura muestra algunos protocolos de red comunes que se utilizan cuando un dispositivo envía una solicitud a un servidor web para su página web.
 
-![alt text]("resources/Imagen5.png")
+![alt text](resources/Imagen5.png)
 
 # [*] Tema 3.3.1 : Conjuntos de protocolos de red
 
@@ -148,7 +148,7 @@ Una de las mejores formas para visualizar el modo en que los protocolos interact
 
 Como se muestra en la figura, podemos utilizar capas para describir la actividad que tiene lugar en el ejemplo de comunicación cara a cara. En la capa inferior, la capa física, hay dos personas, cada una con una voz que puede pronunciar palabras en voz alta. En el medio está la capa de reglas que estipula los requisitos de comunicación incluyendo que se debe elegir un lenguaje común. En la parte superior está la capa de contenido y aquí es donde se habla realmente el contenido de la comunicación.
 
-![alt text]("resources/Imagen6.png")
+![alt text](resources/Imagen6.png)
 
 # [*] Tema 3.3.2 : Evolución de los conjuntos de protocolos
 
@@ -156,7 +156,7 @@ Una suite de protocolos es un grupo de protocolos que trabajan en forma conjunta
 
 Durante la evolución de las comunicaciones de red e Internet hubo varios conjuntos de protocolos competidores, como se muestra en la figura.
 
-![alt text]("resources/Imagen7.png")
+![alt text](resources/Imagen7.png)
 
 
 # [*] Tema 3.3.3 : Ejemplo de Protocolo TCP/IP
@@ -165,14 +165,14 @@ Los protocolos TCP/IP son específicos de las capas Aplicación, Transporte e In
 
 La figura muestra un ejemplo de los tres protocolos TCP/IP utilizados para enviar paquetes entre el navegador web de un host y el servidor web. HTTP, TCP e IP son los protocolos TCP/IP utilizados. En la capa de acceso a la red, Ethernet se utiliza en el ejemplo. Sin embargo, esto también podría ser un estándar inalámbrico como WLAN o servicio celular.
 
-![alt text]("resources/Imagen8.png")
+![alt text](resources/Imagen8.png)
 
 
 # [*] Tema 3.3.4 : Conjunto de TCP/IP
 
 Hoy en día, el conjunto de protocolos TCP/IP incluye muchos protocolos y continúa evolucionando para admitir nuevos servicios. Algunos de los más populares se muestran en la figura.
 
-![alt text]("resources/Imagen9.png")
+![alt text](resources/Imagen9.png)
 
 Capa de aplicación
 
@@ -279,11 +279,11 @@ Distintas organizaciones tienen diferentes responsabilidades para promover y ela
 
 La figura muestra las organizaciones de estándares involucradas con el desarrollo y soporte de Internet.
 
-![alt text]("resources/Imagen10.png")
+![alt text](resources/Imagen10.png)
 
 La siguiente figura muestra las organizaciones de estándares involucradas en el desarrollo y soporte de TCP/IP e incluyen IANA e ICANN.
 
-![alt text]("resources/Imagen11.png")
+![alt text](resources/Imagen11.png)
 
 # [*] Tema 3.4.3 : Organizaciones de estándares para comunicaciones y electrónica
 
@@ -320,7 +320,7 @@ Modelo de referencia de interconexión de sistemas abiertos.
 
 Modelo de referencia TCP/IP
 
-![alt text]("resources/Imagen12.png")
+![alt text](resources/Imagen12.png)
 
 # [*] Tema 3.5.2 : El modelo de referencia OSI
 
@@ -328,7 +328,7 @@ El modelo de referencia OSI proporciona una amplia lista de funciones y servicio
 
 También describe la interacción de cada capa con las capas directamente por encima y por debajo de él. Los protocolos TCP/IP que se analizan en este curso se estructuran en torno a los modelos OSI y TCP/IP. La tabla muestra detalles sobre cada capa del modelo OSI. La funcionalidad de cada capa y la relación entre ellas será más evidente a medida que avance en el curso y que se brinden más detalles acerca de los protocolos.
 
-![alt text]("resources/Imagen13.png")
+![alt text](resources/Imagen13.png)
 
 Nota: mientras las capas del modelo TCP/IP se mencionan solo por el nombre, las siete capas del modelo OSI se mencionan con frecuencia por número y no por nombre. Por ejemplo, la capa física se conoce como Capa 1 del modelo OSI, la capa de enlace de datos es Layer2, y así sucesivamente.
 
@@ -336,7 +336,7 @@ Nota: mientras las capas del modelo TCP/IP se mencionan solo por el nombre, las 
 
 El modelo de protocolo TCP/IP para comunicaciones de internetwork se creó a principios de la década de los setenta y se conoce con el nombre de modelo de Internet. Este tipo de modelo coincide con precisión con la estructura de una suite de protocolos determinada. El modelo TCP/IP es un protocolo modelo porque describe las funciones que ocurren en cada capa de protocolos dentro de una suite de TCP/IP. TCP/IP también es un ejemplo de un modelo de referencia. La tabla muestra detalles sobre cada capa del modelo OSI.
 
-![alt text]("resources/Imagen14.png")
+![alt text](resources/Imagen14.png)
 
 Las definiciones del estándar y los protocolos TCP/IP se explican en un foro público y se definen en un conjunto de documentos de petición de comentarios (RFC) disponibles al público. Un RFC es creado por ingenieros de redes y enviado a otros miembros de IETF para comentarios.
 
@@ -346,7 +346,7 @@ Los protocolos que forman la suite de protocolos TCP/IP pueden describirse en t�
 
 En la capa de acceso a la red, la suite de protocolos TCP/IP no especifica cuáles protocolos utilizar cuando se transmite por un medio físico; solo describe la transferencia desde la capa de Internet a los protocolos de red física. Las capas OSI 1 y 2 tratan los procedimientos necesarios para acceder a los medios y las maneras físicas de enviar datos por la red.
 
-![alt text]("resouces/Imagen16.png")
+![alt text](resouces/Imagen16.png)
 
 # [*] Tema 3.6.1 : Segmentacion del Mensaje
 
@@ -377,7 +377,7 @@ Nota: Aunque la PDU UDP se denomina datagrama, los paquetes IP a veces también 
 
 La manera que adopta una porción de datos en cualquier capa se denomina unidad de datos del protocolo (PDU). Durante el encapsulamiento, cada capa encapsula las PDU que recibe de la capa inferior de acuerdo con el protocolo que se utiliza. En cada etapa del proceso, una PDU tiene un nombre distinto para reflejar sus funciones nuevas. Aunque no existe una convención universal de nombres para las PDU, en este curso se denominan de acuerdo con los protocolos de la suite TCP/IP. Las PDU de cada tipo de datos se muestran en la figura.
 
-![alt text]("resources/Imagen17.png)
+![alt text](resources/Imagen17.png)
 
 # [*] Tema 3.6.4 : Ejemplo de encapsulamiento
 
@@ -401,7 +401,7 @@ La capa de red y la capa de enlace de datos son responsables de enviar los datos
     Direcciones de origen y de destino de la capa de enlace de datos: son responsables de enviar la trama de enlace de datos desde una tarjeta de interfaz de red (NIC) a otra en la misma red.
 
 
-![alt text]("resources/Imagen18.png")
+![alt text](resources/Imagen18.png)
 
 # [*] Tema 3.7.2 : Direccion de Logica de Capa 3
 
@@ -431,13 +431,13 @@ En este ejemplo, tenemos un equipo cliente, PC1, que se comunica con un servidor
 
 En la figura, observe que la porción de red de las direcciones IP de origen y de destino se encuentran en la misma red. Observe en la figura que la parte de red de la dirección IPv4 de origen y la parte de red de la dirección IPv4 de destino son iguales y, por tanto, el origen y el destino están en la misma red.
 
-![alt text]("resources/Imagen19.png")
+![alt text](resources/Imagen19.png)
 
 # [*] Tema 3.7.4 : Función de las direcciones de la capa de enlace de datos - La misma red IP
 
 Cuando el emisor y el receptor del paquete IP están en la misma red, la trama de enlace de datos se envía directamente al dispositivo receptor. En una red Ethernet, las direcciones de enlace de datos se conocen como direcciones de Control de acceso a medios de Ethernet (MAC), como se resalta en la figura.
 
-![alt text]("resources/Imagen20.png")
+![alt text](resources/Imagen20.png)
 
 Las direcciones MAC están integradas físicamente a la NIC Ethernet.
 
@@ -455,7 +455,7 @@ Cuando el emisor del paquete se encuentra en una red distinta de la del receptor
 
 En la figura, observe que la porción de red de las direcciones IP de origen y de destino se encuentran en redes diferentes.
 
-![alt text]("resources/Imagen21.png)
+![alt text](resources/Imagen21.png)
 
 # [*] Tema 3.7.7 : Rol de acceso a datos de las direcciones de capa de vínculo de datos - Diferentes redes IP
 
@@ -465,7 +465,7 @@ Cuando el emisor y el receptor del paquete IP se encuentran en redes diferentes,
     Dirección MAC de destino: cuando el dispositivo receptor, la dirección IP de destino, está en una red distinta de la del dispositivo emisor, este utiliza la dirección MAC de Ethernet del gateway predeterminado o el router. En este ejemplo, la dirección MAC de destino es la dirección MAC de la interfaz Ethernet de R1, 11-11-11-11-11-11. Esta es la interfaz que está conectada a la misma red que PC1, como se muestra en la figura.
 
 
-![alt text]("resources/Imagen22.png")
+![alt text](resources/Imagen22.png)
 
 La trama de Ethernet con el paquete IP encapsulado ahora se puede transmitir a R1. R1 reenvía el paquete al destino, el servidor web. Esto puede significar que R1 reenvía el paquete a otro router o directamente al servidor web si el destino se encuentra en una red conectada a R1.
 
