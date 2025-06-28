@@ -110,7 +110,7 @@ Las comunicaciones de red tienen opciones de entrega similares para comunicarse.
 
 Los documentos y topologías de red suelen representar dispositivos de red y finales mediante un icono de nodo. Los nodos se suelen representar como un círculo. La figura muestra una comparación de las tres opciones de entrega diferentes utilizando iconos de nodo en lugar de iconos de ordenador.
 
-![alt text]("resources/Imagen1.png")
+![alt text](resources/Imagen1.png)
 
 # [*] Tema 3.2.1 : Descripción General del Protocolo de Red.
 
